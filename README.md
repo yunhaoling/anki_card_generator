@@ -1,4 +1,4 @@
-# Summary
+# Introduction
 
 As a language learner, you might want to make your own flash card for memorization. Anki is a widely used tool to help you learn new words.
 
@@ -100,4 +100,4 @@ By default the React app runs on `http://127.0.0.1:3000/`
 
 ## Known limitation/issues
 
-- There's a `tmpdir`` in the `backend`` dir which are used to stored generated audio file. Clean it up if you don't want to keep them.
+- There's a `tmpdir` in the `backend` dir which are used to stored generated audio file. Clean it up if you don't want to keep them.

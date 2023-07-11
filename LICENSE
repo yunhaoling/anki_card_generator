@@ -1,3 +1,16 @@
+The project is licensed under GNU Affero General Public License, v3.0
+
+Copyright (c) 2023 Yunhao Ling
+
+The project uses the following projects which contains a mix of licenses:
+
+- Anki: https://github.com/ankitects/anki is licensed under GNU Affero General Public License, v3.0
+- LibreTranslate: https://github.com/LibreTranslate/LibreTranslate is licensed under GNU Affero General Public License v3.0
+- OpenTTS: https://github.com/synesthesiam/opentts/blob/master/LICENSE is licensed under MIT License
+
+
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
